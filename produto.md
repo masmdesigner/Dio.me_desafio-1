@@ -1,6 +1,6 @@
 # 🏦 SISBANK - Seu Banco Digital em Python
 
-![Logo do SISBANK](caminho/para/logo.png)
+![Logo do SISBANK](blob/rre/logo.png)
 
 ---
 
@@ -19,4 +19,4 @@ O objetivo do SISBANK é oferecer uma base sólida para quem está aprendendo pr
 ## 🖼️ Logo do Produto
 
 ```markdown
-![Logo do SISBANK](logo.png)
+![Logo do SISBANK](blob/rre/logo.png)
